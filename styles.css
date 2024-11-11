@@ -10,3 +10,8 @@
     --grad-color4:#ce4993;
     --grad-color5:#6a0d83;
 }
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
