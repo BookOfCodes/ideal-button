@@ -1,2 +1,2 @@
 # ideal-button
-Awesome ideal using fancy css.
+Awesome ideal button using fancy css.
